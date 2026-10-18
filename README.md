@@ -19,3 +19,6 @@ This repo holds my smaller coursework pieces. Larger projects each have their ow
 |---|---|---|
 | [`year1-computer-systems-x86-assembly`](year1-computer-systems-x86-assembly) | Computer Systems (Y1) | NASM x86 assembly programs + flowcharts |
 | [`year1-computing-and-society-ux-research`](year1-computing-and-society-ux-research) | Computing and Society (Y1) | UX research case study on Meta social commerce |
+
+---
+*Shared as a portfolio piece after marking. Please do not reuse this work in your own assessed coursework.*
